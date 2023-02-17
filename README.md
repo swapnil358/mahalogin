@@ -7,5 +7,7 @@ this is for git hooks  of mahalogin
 4 th commit
 5 th commit
 6 th commit
+7 th commit
+
 
 
